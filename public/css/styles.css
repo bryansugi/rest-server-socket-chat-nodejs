@@ -1,0 +1,13 @@
+.chat {
+    background-color: rgb(240, 240, 240);
+    border: 0px solid;
+    border-radius: 5px;
+    border-color: #CCC;
+    box-shadow: 0px 4px 17px -1px rgb(187, 187, 187);
+}
+
+.contenidoChat {
+    background-color: #fff;
+    border: 0px solid;
+    height: 200px
+}
